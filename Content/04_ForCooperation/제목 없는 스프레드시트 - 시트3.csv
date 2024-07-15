@@ -1,0 +1,7 @@
+---,MemberVar_0,MemberVar_1,MemberVar_2,MemberVar_3,MemberVar_4,MemberVar_5,MemberVar_6,MemberVar_7,MemberVar_8,MemberVar_9
+NewRow,None,Player,None,TRUE,0,TRUE,,None,FALSE,0
+NewRow_0,None,Monster,None,FALSE,0,FALSE,,None,FALSE,0
+NewRow_1,None,None,/Script/Engine.Texture2D'/Engine/EngineResources/AICON-Green.AICON-Green',FALSE,0,FALSE,,None,FALSE,0
+NewRow_2,None,None,/Script/Engine.Texture2D'/Engine/MobileResources/HUD/AnalogHat.AnalogHat',TRUE,0,FALSE,,None,FALSE,0
+NewRow_3,None,None,/Script/Engine.Texture2D'/Engine/MobileResources/HUD/AnalogHat.AnalogHat',TRUE,0,FALSE,,None,FALSE,0
+NewRow_4,None,Player,None,FALSE,0,TRUE,,None,TRUE,0
