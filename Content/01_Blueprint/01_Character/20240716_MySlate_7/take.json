@@ -1,0 +1,23 @@
+{
+  "identifier" : "20240716_MySlate_7",
+  "calibrated" : false,
+  "endTimestamp" : {
+    "value" : 391182669362094,
+    "timescale" : 1000000000
+  },
+  "videoTargetFrameRate" : 60,
+  "deviceModel" : "iPhone14,5",
+  "subject" : "iPhone",
+  "startTimecode" : "12:39:33:49.133",
+  "endTimecode" : "12:39:42:40.161",
+  "date" : "2024-07-16T05:31:20Z",
+  "frames" : 532,
+  "startTimestamp" : {
+    "value" : 391173818892521,
+    "timescale" : 1000000000
+  },
+  "take" : 7,
+  "version" : 1,
+  "slate" : "MySlate",
+  "appVersion" : "v1.3.2 (build 99)"
+}
